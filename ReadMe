@@ -1,0 +1,2 @@
+This is a Simulink modle for an FOC based motor driver.
+Embedded coder or simulink coder can be used to generate the code for the FOC subsystem.
